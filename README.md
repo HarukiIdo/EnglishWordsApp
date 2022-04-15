@@ -12,6 +12,6 @@ TOEICを勉強していた時になかなか覚えられない単語を紙に書
 
 
 ## 使用技術
-クライアント：SWiftUI(Swift)
+クライアント：SWiftUI(Swift)  
 DB：CoreData
 
